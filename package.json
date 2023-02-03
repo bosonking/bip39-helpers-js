@@ -1,0 +1,22 @@
+{
+  "name": "bip39-helpers-js",
+  "version": "1.0.0",
+  "description": "Calculate your last seed word",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bosonking/bip39-helpers-js.git"
+  },
+  "keywords": [],
+  "author": "Boson King <hi@bosonking.slmail.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bosonking/bip39-helpers-js/issues"
+  },
+  "homepage": "https://github.com/bosonking/bip39-helpers-js#readme",
+  "engines": {
+    "node": ">=18.13.0"
+  }
+}
